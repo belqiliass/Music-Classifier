@@ -1,5 +1,9 @@
 # Music-Classifier
 
+Réalisé par : Iliass Belqadi et Meryeme Errekik
+
+Encadré par : Mahmoudi Abdelhak
+
 Python files (*.py) :
 
   - ConvertToWav.py : To convert "au" files to "wav" for analysis
